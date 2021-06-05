@@ -1,3 +1,5 @@
+This project is outdated, use the new one https://github.com/NPPElement/visiobas-gateway
+
 ##__Install python__  
 https://www.python.org/downloads/    
 
